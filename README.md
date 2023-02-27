@@ -3,7 +3,7 @@ joenyland.vim
 
 [![CI](https://github.com/JoeNyland/ansible-vim-role/actions/workflows/ci.yml/badge.svg)](https://github.com/JoeNyland/ansible-vim-role/actions/workflows/ci.yml)
 
-Installs vim.
+Installs Vim.
 
 Requirements
 ------------

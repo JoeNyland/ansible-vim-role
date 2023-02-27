@@ -2,7 +2,7 @@ galaxy_info:
   author: Joe Nyland
   role_name: vim
   namespace: joenyland
-  description: Installs vim
+  description: Installs Vim
   license: MIT
   min_ansible_version: '2.1'
   platforms:
